@@ -37,7 +37,7 @@ eureka:
     prefer-ip-address: true #访问路径就会显示成IP地址
 
 emp:
-  name: 
+  name: zhangsan
 ---
 server:
   port: 8001
